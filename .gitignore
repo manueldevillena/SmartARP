@@ -1,0 +1,13 @@
+.idea
+forecast_scripts
+data
+venv
+results
+*.pyc
+debug
+
+
+smartarp/processing_production\.py
+
+test\.lp
+*.lp

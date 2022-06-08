@@ -1,0 +1,85 @@
+{
+  "path_dam_prices": "data_dummy/dam_be.csv",
+  "path_imbalance_prices": "data_dummy/imbalance_be.csv",
+  "path_demand_retailer": "data_dummy/load_retailer_total.csv",
+  "path_demand_amr": "data_dummy/load_amr.csv",
+  "time_start": "2017-09-24 00:00:00",
+  "time_end": "2017-10-01 00:00:00",
+  "microgrids": {
+    "AMR20":  {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR30": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR48": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR24": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR67": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR62": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR90": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR60": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR35": {
+      "relative_payback": 1.0,
+      "relative_flexibility":  0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "SOLAR6": {
+      "flexibility_provider": false,
+      "producer": true
+    },
+    "SOLAR7": {
+      "flexibility_provider": false,
+      "producer": true
+    },
+    "SOLAR8": {
+      "flexibility_provider": false,
+      "producer": true
+    }
+  }
+}

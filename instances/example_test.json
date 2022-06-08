@@ -1,0 +1,154 @@
+{
+  "path_dam_prices": "data_dummy/dam_be.csv",
+  "path_imbalance_prices": "data_dummy/imbalance_be.csv",
+  "path_demand_retailer": "data_dummy/load_retailer_30.csv",
+  "path_demand_amr": "data_dummy/load_amr_30.csv",
+  "time_start": "2017-03-01 00:00:00",
+  "time_end": "2017-03-03 23:00:00",
+  "microgrids": {
+    "AMR30": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR88": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR24": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR7": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR6": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR12": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR48": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR58": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR62": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR8": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR17": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR46": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR22": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR44": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR64": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR9": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR29": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR85": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR49": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "AMR1": {
+      "relative_payback": 1.0,
+      "relative_flexibility": 0.2,
+      "payback_duration": 60,
+      "flexibility_provider": true,
+      "producer": false
+    },
+    "SOLAR": {
+      "flexibility_provider": false,
+      "producer": true
+    }
+  }
+}
